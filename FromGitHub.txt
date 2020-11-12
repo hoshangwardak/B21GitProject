@@ -1,0 +1,1 @@
+Adding directly from gitHub.com to my local repository in this case its Intellij
